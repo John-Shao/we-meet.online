@@ -1,0 +1,6 @@
+{
+  "name": "微密小站 (we-meet.online)",
+  "description": "专注 AI + 音视频技术的独立博客",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
